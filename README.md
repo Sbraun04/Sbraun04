@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sbraun04
 - 👀 I’m interested in ... cars, tech, games
-- 🌱 I’m currently learning ... javascript
+- 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ...projects to add help strengthen my portfolio
-- 📫 How to reach me ...msg me on insta seth_braun04
+- 📫 How to reach me ... email: SHBraun04@gmail.com
 
 <!---
 Sbraun04/Sbraun04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
